@@ -41,9 +41,6 @@ Published in ***Insects***, collection *Insect Sensory Biology*.
 
 ## Contributors
 
-Conceptualization, D.W., K.J. and S.P.; Investigation, S.P. and K.J.; Bioinformatics, S.P.; Formal Analysis, S.P.; Immunohistochemistry, K.J.; Writing—Original Draft Preparation, S.P. and K.J.; Writing—Review and Editing, S.P., K.J., B.S.H. and D.W.; Supervision, B.S.H. and D.W. All authors have read and agreed to the published version of the manuscript.
-
-
 | Author | Contribution (manuscript) |
 |---|---|
 | SP, DW, KJ | Conceptualization |
