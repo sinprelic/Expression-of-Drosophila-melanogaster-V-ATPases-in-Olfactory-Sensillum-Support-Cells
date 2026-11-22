@@ -10,8 +10,10 @@
 
 ## Publication info
 
-[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmetrics-api.dimensions.ai%2Fdoi%2F10.3390/insects15121016&query=%24.times_cited&label=Citations&color=005B9A)](https://badge.dimensions.ai/details/doi/10.3390/insects15121016) 
-[![Article views](https://img.shields.io/badge/Article%20views%20as%20of%20Nov%2020%202026-2%2C330-005B9A)](https://www.mdpi.com/2075-4450/15/12/1016) 
+[![Dimensions citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmetrics-api.dimensions.ai%2Fdoi%2F10.3390%2Finsects15121016&query=%24.times_cited&label=Dimensions%20citations&color=purple)](https://badge.dimensions.ai/details/doi/10.3390/insects15121016)
+[![OpenAlex citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4405696009&query=%24.cited_by_count&label=OpenAlex%20citations&color=blue)](https://openalex.org/W4405696009)
+[![Insects journal citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsinprelic%2FArticle-Metrics-Scraper%2Fmain%2Fdata%2Fmetrics.json&query=%24.articles.insects_vatpase.citations&label=Insects%20journal%20citations&color=green)](https://doi.org/10.3390/insects15121016)
+[![Insects journal article views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsinprelic%2FArticle-Metrics-Scraper%2Fmain%2Fdata%2Fmetrics.json&query=%24.articles.insects_vatpase.article_views&label=Insects%20journal%20article%20views&color=green)](https://doi.org/10.3390/insects15121016)
 
 Published in ***Insects***, collection *Insect Sensory Biology*.
 
