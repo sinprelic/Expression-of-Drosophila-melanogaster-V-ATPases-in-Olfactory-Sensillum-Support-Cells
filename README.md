@@ -4,7 +4,7 @@
 
 <small>
 <sup>1</sup> Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology, Jena, Germany<br>
-<sup>†</sup> Shared lead (first) authorship
+<sup>†</sup> Shared lead (first) authorship<br>
 <sup>*</sup> Corresponding author
 </small>
 
