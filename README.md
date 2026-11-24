@@ -45,17 +45,17 @@ Published in ***Insects***, collection *Insect Sensory Biology*.
 
 | Author | Contribution (manuscript) |
 |---|---|
-| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#1F4E79"><strong>DW</strong></font>, <font color="#386641"><strong>KJ</strong></font> | Conceptualization |
-| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#386641"><strong>KJ</strong></font> | Investigation |
-| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#386641"><strong>KJ</strong></font> | Plotting, visualizations, figures |
-| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#386641"><strong>KJ</strong></font> | Writing - Original Draft Preparation |
-| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#386641"><strong>KJ</strong></font>, <font color="#6A4C93"><strong>BSH</strong></font>, <font color="#1F4E79"><strong>DW</strong></font> | Writing - Review & Editing |
-| <font color="#6A4C93"><strong>BSH</strong></font>, <font color="#1F4E79"><strong>DW</strong></font> | Supervision |
+| 🟢 SP<br>🟣 DW<br>🔵 KJ | Conceptualization |
+| 🟢 SP<br>🔵 KJ | Investigation |
+| 🟢 SP<br>🔵 KJ | Plotting, visualizations, figures |
+| 🟢 SP<br>🔵 KJ | Writing - Original Draft Preparation |
+| 🟢 SP<br>🔵 KJ<br>🟡 BSH<br>🟣 DW | Writing - Review & Editing |
+| 🟡 BSH<br>🟣 DW | Supervision |
 |  | **Investigation (experimental/methodology)** |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Genetics; bioinformatics, transcriptomic analysis |
-| <font color="#386641"><strong>KJ</strong></font> | Fly rearing |
-| <font color="#386641"><strong>KJ</strong></font> | Immunohistochemistry |
-| <font color="#386641"><strong>KJ</strong></font> | Imaging |
+| 🟢 SP | Genetics; bioinformatics, transcriptomic analysis |
+| 🔵 KJ | Fly rearing |
+| 🔵 KJ | Immunohistochemistry |
+| 🔵 KJ | Imaging |
 
 | Funding |
 |---|
